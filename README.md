@@ -9,6 +9,9 @@
 * Project status: With Simplistic UI the applicationstatus is Complete.
 * Developed by Nabeel Ahmed
 
+## Deployed website Link
+[House prediction webApp](https://house-prediction-model.herokuapp.com/)
+
 ## Table of contents
 
 > * [House Pediction](https://github.com/Nabeel110/Bangalore-House-Prediction)
@@ -21,7 +24,6 @@
 >   * [Code](#code)
 >     * [Content](#content)
 >     * [Limitations](#limitations)
->   * [Contributing / Reporting issues](#contributing--reporting-issues)
 >   * [License](#license)
 
 ## Installation
