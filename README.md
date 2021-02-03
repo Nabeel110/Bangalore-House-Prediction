@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to Bangalore House Price Prediction WebApp 👋</h1>
 <p align="center">
-  <img src="https://github.com/Nabeel110/Kurti-Store/blob/master/Images/Logo.JPG" />
+  <img src="https://github.com/Nabeel110/Bangalore-House-Prediction/blob/main/Screenshots/logo.JPG" />
 </p>
 
 ## About Project
@@ -47,33 +47,18 @@
 ### Screenshots
 
 - Home Screen on web</br>
-![Home Screen](https://github.com/Nabeel110/Kurti-Store/blob/master/Images/HomeScreen.JPG) </br>
+![Home Screen](https://github.com/Nabeel110/Bangalore-House-Prediction/blob/main/Screenshots/LandingPage.JPG) </br>
 
-- ShoppingCart Screen</br>
-![Shopping Cart](https://github.com/Nabeel110/Kurti-Store/blob/master/Images/ShoppingCartScreen.JPG) </br>
-
-- Product Screen</br>
-![Product Screen](https://github.com/Nabeel110/Kurti-Store/blob/master/Images/ProductScreen.JPG) </br>
-
-- Checkout Screen</br>
-![Checkout Screen](https://github.com/Nabeel110/Kurti-Store/blob/master/Images/CheckoutScreen.JPG) </br>
-
-- Order Screen</br>
-![Order Screen](https://github.com/Nabeel110/Kurti-Store/blob/master/Images/OrderScreen.JPG) </br>
+- Mobile Screen</br>
+![Shopping Cart](https://github.com/Nabeel110/Bangalore-House-Prediction/blob/main/Screenshots/MobileView.JPG) </br>
 
 ## Code
 
-(https://github.com/Nabeel110/Kurti-Store/)
+(https://github.com/Nabeel110/Bangalore-House-Prediction/)
 
 ### Limitations
 
-- Admin Functionality Not yet Implemented.
-- Code clean required
-
-
-## Code Contributors
-
-This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
+- Only used few features to predict House Price.
 
 ## Show your support
 
@@ -85,7 +70,7 @@ Please ⭐️ this repository if this project helped you!
 
 ## 📝 License
 
-Copyright © 2021 [Nabeel Ahmed](https://github.com/Nabeel110) & [Samima Khan](https://pk.linkedin.com/in/samima-khan)<br />
+Copyright © 2021 [Nabeel Ahmed](https://github.com/Nabeel110)<br />
 This project is [MIT](https://github.com/Nabeel110/blob/master/LICENSE) licensed.
 
 ---
