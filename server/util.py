@@ -48,6 +48,3 @@ def get_location_names():
     return __locations
 
 
-if __name__ == '__main__':
-    load_saved_artifacts()
-    print(get_location_names())
